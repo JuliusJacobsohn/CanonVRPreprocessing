@@ -1,0 +1,10 @@
+Sample Data:
+	Comparison JPG out of camera and JPG created by DPP from .CR3 file
+		sample_jpg_file.JPG (out of camera)
+		sample_raw_file_converted_via_dpp.jpg (converted via DPP)
+
+Sample Data Converted:
+	Comparison JPG out of camera and JPG created by DPP from .CR3 file
+		sample_jpg_file.JPG (out of camera)
+		sample_raw_file_converted_via_dpp.jpg (converted via DPP)
+		-> Images differ greatly

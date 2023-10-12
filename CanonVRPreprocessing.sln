@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EOSVRUtilityVerification", "EOSVRUtilityVerification\EOSVRUtilityVerification.csproj", "{484F0BA6-AA0B-432A-A254-069CD64ED09C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EOSVRUtilityEstimator", "EOSVRUtilityEstimator\EOSVRUtilityEstimator.csproj", "{D752CAFE-B8FF-4462-8D07-85247B1801CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CanonDualFisheyeFunctions", "CanonDualFisheyeFunctions\CanonDualFisheyeFunctions.csproj", "{8D9CBF72-5DC9-4D70-BFB2-E471798A4AAC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CanonVRPreprocessor", "CanonVRPreprocessor\CanonVRPreprocessor.csproj", "{F29EB78E-8B78-4DC2-8DA1-2DBB98A11AC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evaluation", "Evaluation\Evaluation.csproj", "{D8BF053C-2123-47D0-98AC-E642D8C63D4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{484F0BA6-AA0B-432A-A254-069CD64ED09C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{484F0BA6-AA0B-432A-A254-069CD64ED09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{484F0BA6-AA0B-432A-A254-069CD64ED09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{484F0BA6-AA0B-432A-A254-069CD64ED09C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D752CAFE-B8FF-4462-8D07-85247B1801CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D752CAFE-B8FF-4462-8D07-85247B1801CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D752CAFE-B8FF-4462-8D07-85247B1801CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D752CAFE-B8FF-4462-8D07-85247B1801CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D9CBF72-5DC9-4D70-BFB2-E471798A4AAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D9CBF72-5DC9-4D70-BFB2-E471798A4AAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D9CBF72-5DC9-4D70-BFB2-E471798A4AAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D9CBF72-5DC9-4D70-BFB2-E471798A4AAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F29EB78E-8B78-4DC2-8DA1-2DBB98A11AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F29EB78E-8B78-4DC2-8DA1-2DBB98A11AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F29EB78E-8B78-4DC2-8DA1-2DBB98A11AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F29EB78E-8B78-4DC2-8DA1-2DBB98A11AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8BF053C-2123-47D0-98AC-E642D8C63D4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8BF053C-2123-47D0-98AC-E642D8C63D4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8BF053C-2123-47D0-98AC-E642D8C63D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8BF053C-2123-47D0-98AC-E642D8C63D4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48D0235E-6442-417A-A452-F88A5AFDDA4B}
+	EndGlobalSection
+EndGlobal
